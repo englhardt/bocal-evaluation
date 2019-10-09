@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+matplotlib = "*"
+seaborn = "*"
+python-ternary = "*"
+pandas = "*"
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+evaluation = "jupyter nbconvert --inplace --execute notebooks/evaluation.ipynb"
