@@ -1,9 +1,9 @@
-# Batch One-Class Active Learning Evaluation 
+# Batch One-Class Active Learning Evaluation
 _Scripts and notebooks to benchmark batch one-class active learning strategies._
 
 This repository contains scripts and notebooks to reproduce the experiments and analyses of the paper
 
-> Adrian Englhardt, Holger Trittenbach, Klemens Böhm, “Finding the Sweet Spot: Batch Selection for One-Class Active Learning”
+> Adrian Englhardt, Holger Trittenbach, Dennis Vetter, Klemens Böhm, “Finding the Sweet Spot: Batch Selection for One-Class Active Learning”. In: Proceedings of the 2020 SIAM International Conference on Data Mining (SDM), May 7-9, 2020, Cincinnati, Ohio, USA.
 
 For more information about this research project, see also the [BOCAL project](https://www.ipd.kit.edu/bocal/) website.
 For a general overview and a benchmark on one-class active learning see the [OCAL project website](https://www.ipd.kit.edu/ocal/).
